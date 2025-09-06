@@ -1,6 +1,8 @@
-Competitive Programming Essentials, Master Algorithms.
+# Competitive Programming Essentials, Master Algorithms.
 
-Watched: 12/496
+### Watched: 12/496
+
+---
 
 Day 1 :
 
